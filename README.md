@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/alyaa-alaa-258972202)  
 📍 **El-Mansoura, Egypt**  
-📧 **alyaaalaa550@gmail.com**  
+📧 **alyaaalaa301@gmail.com**  
 Creative and organized in GIS, programming knowledge, and a desire to learn more. Actively seeking an opportunity where my technical and soft skills can be invested in a beneficial way.
 ## 🎓 Education
 
