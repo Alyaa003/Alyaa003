@@ -57,7 +57,10 @@ Graduation Project: **Excellence**
 ### 💻 **Client-Side Technologies (Frontend)**:
 - **HTML/HTML5** (Structure)
 - **CSS/CSS3** (Design)
-- Knowledge of **JavaScript**, **Python**, **Algorithms**, and **Data Science**
+- **JavaScript  ES6**    
+- **Bootstrap**  
+- **Leaflet.js**
+- Knowledge of **Python**, **Algorithms**, and **Data Science**
 
 ---
 
